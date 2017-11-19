@@ -1,2 +1,2 @@
 # paradox
-paradox is my discord bot. it is a multifunctional bot that is for fun commands and not hard to use. this is my project about paradox.
+so here it is about javascript and my bot paradox. you'll find some tutorials by me here.
